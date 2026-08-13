@@ -1,6 +1,22 @@
 # Arduino files for GCARC projects
 
-Sketches for Gloucester County Amateur Radio Club (W2MMD) Arduino work.
+Sketches and small programs for Gloucester County Amateur Radio Club (W2MMD) work.
+
+## Grok Compass
+
+A short browser game to help you and a student decide whether they should use Grok.
+
+Open `grok-check/index.html` in a browser (double-click the file, or from this folder run `python3 -m http.server` and visit `/grok-check/`).
+
+The student plays seven school situations and picks what they would actually do. At the end you get one of five recommendations:
+
+- **Yes — as a tutor, not a ghostwriter**
+- **Yes, with ground rules**
+- **They don't need it — it is optional**
+- **Not yet — too easy to skip the thinking**
+- **No — honesty first**
+
+The result screen includes a short note for the adult. This is a conversation starter, not a diagnosis. If a class forbids AI, follow that rule.
 
 ## CW Practice Keyer
 
